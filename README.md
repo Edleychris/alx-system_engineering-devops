@@ -1,1 +1,1 @@
-This repository contains solution to shell tasks
+solutions for the tasks below yourself to meet with the above learning objectives.
